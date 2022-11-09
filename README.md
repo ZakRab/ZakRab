@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZakRab
-- 👀 I’m interested in: javascript, java, react, sql, c#, HTML & CSS, and Sfvelte
+- 👀 I’m interested in: javascript, typescript, java, react, sql, c#, HTML & CSS, and svelte
 - 🌱 I’m currently learning: java and ionic
 - 💞️ I’m looking to: collaborate on anything ;)
 - 📫 How to reach me: email
