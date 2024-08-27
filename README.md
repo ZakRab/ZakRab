@@ -18,7 +18,7 @@ I'm a passionate software engineer with a diverse background in web and mobile d
 I'm always open to collaborating on exciting projects that push the boundaries of technology. Whether it's web, mobile, or something entirely new, let's build something amazing together! 🚀
 
 ### How to Reach Me
-- **Email:** [zrab2@unl.com](mailto:your-email@example.com)
+- **Email:** [zrab2@unl.com](mailto:zrab2@unl.com)
 
 <!---
 ZakRab/ZakRab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
