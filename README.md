@@ -7,7 +7,7 @@ I'm a passionate software engineer with a diverse background in web and mobile d
 - **Languages:** JavaScript, TypeScript, Java, C#, Dart, SQL, HTML & CSS
 - **Frameworks & Libraries:** React, Svelte, Node.js, Flutter
 - **Databases:** SQL, Supabase
-- **Tools & Platforms:** Git, RESTful APIs, Atlassian (JIRA, Confluence), Socket.io, Material UI, PassportJS
+- **Tools & Platforms:** Git, RESTful APIs, Atlassian (JIRA, Confluence), Linear Socket.io, Material UI, PassportJS
 
 ### Currently Learning
 - **C:** Building foundational skills in systems programming and memory management.
