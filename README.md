@@ -1,4 +1,4 @@
-# Hi, I’m Zakaria Rab (@ZakRab) 👋
+# Hi, I’m Zakaria Rab (@ZakRab)
 
 ### About Me
 I'm a passionate software engineer with a diverse background in web and mobile development. I have hands-on experience with a variety of technologies and a proven track record of delivering impactful projects.
