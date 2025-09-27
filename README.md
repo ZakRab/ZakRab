@@ -1,7 +1,7 @@
 # Hi, I’m Zakaria Rab (@ZakRab)
 
 ### About Me
-I'm a passionate software engineer with a diverse background in web and mobile development. I have hands-on experience with a variety of technologies and a proven track record of delivering impactful projects.
+I'm a passionate software engineer with a diverse background in web, mobile, ai agent development. I have hands-on experience with a variety of technologies and a proven track record of delivering impactful projects.
 
 ### How to Reach Me
 - **Email:** [zrab2@unl.com](mailto:zrab2@unl.com)
